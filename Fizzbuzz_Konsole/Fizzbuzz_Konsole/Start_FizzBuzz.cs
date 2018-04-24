@@ -8,7 +8,7 @@ namespace Fizzbuzz_Konsole
 {
     class Start_FizzBuzz
     {
-        public static int[] UG_OG_Eingeben()
+        internal static int[] UG_OG_Eingeben()
         {
             int[] array = new int[] { 0, 0 };
             Console.WriteLine("Untergrenze: ");
@@ -19,7 +19,7 @@ namespace Fizzbuzz_Konsole
             return array;
         }
 
-        public static Dictionary<int, string> Zahlen_auswerten(int untergrenze, int obergrenze)
+        internal static Dictionary<int, string> Zahlen_auswerten(int untergrenze, int obergrenze)
         {
             var zahlen = new Dictionary<int, string>();
             //var test = UG_OG_Eingeben();
@@ -54,7 +54,7 @@ namespace Fizzbuzz_Konsole
 
             return zahlen;
         }
-        public static Dictionary<int, string> Zahlen_ausgeben()
+        internal static Dictionary<int, string> Zahlen_ausgeben()
         {
             var ug_og = UG_OG_Eingeben();
             var zahlen = Zahlen_auswerten(ug_og[0], ug_og[1]);

@@ -3,3 +3,4 @@ C:\Users\BrunzePh\Source\Repos\Fizzbuzz_Konsole\Fizzbuzz_Konsole\Fizzbuzz_Konsol
 C:\Users\BrunzePh\Source\Repos\Fizzbuzz_Konsole\Fizzbuzz_Konsole\Fizzbuzz_Konsole\bin\Debug\Fizzbuzz_Konsole.pdb
 C:\Users\BrunzePh\Source\Repos\Fizzbuzz_Konsole\Fizzbuzz_Konsole\Fizzbuzz_Konsole\obj\Debug\Fizzbuzz_Konsole.exe
 C:\Users\BrunzePh\Source\Repos\Fizzbuzz_Konsole\Fizzbuzz_Konsole\Fizzbuzz_Konsole\obj\Debug\Fizzbuzz_Konsole.pdb
+C:\Users\BrunzePh\Source\Repos\Fizzbuzz_Konsole\Fizzbuzz_Konsole\Fizzbuzz_Konsole\obj\Debug\Fizzbuzz_Konsole.csprojResolveAssemblyReference.cache
