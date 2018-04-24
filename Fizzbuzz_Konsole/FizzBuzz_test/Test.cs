@@ -18,13 +18,13 @@ namespace FizzBuzz_test
             Assert.AreEqual(31, ergebnis.Count());
         }
 
-        //[Test, Category("Undsotest")]
+        [Test, Category("Undsotest")]
 
-        //public void test()
-        //{
-        //    var ergebnis = Program.Zahlen_auswerten(0, 10);
-        //    Assert.AreEqual("Fizz", ergebnis[3]);
-        //}
+        public void Kein_Buzz()
+        {
+            var ergebnis = Start_FizzBuzz.Zahlen_auswerten(0, 3);
+            Assert.AreNotEqual("buzz", ergebnis[3]);
+        }
 
     }
 }
